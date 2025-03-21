@@ -37,8 +37,8 @@ I'm a Full Stack Developer based in Mumbai, India with a passion for creating re
 
 <strong>Mobile Development</strong>  
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=reactnative" alt="React Native" />
-  <img src="https://cdn.worldvectorlogo.com/logos/expo.svg" alt="Expo" height="40" style="margin-left:8px; margin-right:8px;" />
+  <!-- Using React icon to represent React Native -->
+  <img src="https://skillicons.dev/icons?i=react" alt="React Native" />
   <img src="https://skillicons.dev/icons?i=flutter" alt="Flutter" />
 </div>
 
